@@ -10,13 +10,13 @@ This collection includes three Arduino-based projects that reflect my exploratio
 
 ### Included Projects
 1. **Obstacle Avoidance Robot**  
-   Building by following and adapting a YouTube tutorial, this robot detects and avoids obstacles using an ultrasonic sensor. It was my first project applying the Arduino fundamentals I had learned, helping me connect theory to practice. Through experimenting with wiring corrections, motor adjustments, and battery upgrades, I gained hands-on experience with Arduino hardware and learned how hardware and software interact.
+   Building by following and adapting a YouTube tutorial, this robot detects and avoids obstacles using an ultrasonic sensor. It was my first project applying the Arduino fundamentals I had learned, helping me connect theory to practice. Through experimenting with wiring corrections, motor adjustments, and battery upgrades, I gained hands-on experience with Arduino hardware and programming, learning that growth requires iteration and support from others.
 
 2. **Sumo Robot**  
-   A collaborative project focused on 3D design, calibration, and motor control. It strengthened my design foundation and sparked my interest in computer vision and robot perception.
+   A collaborative project focused on 3D modeling, calibration, and motor control. I co-designed and assembled the robot using Tinkercad and Arduino, refining design accuracy and wiring logic under teacher guidance. This project strengthened my technical foundation and emotional connection to robotics, sparking my passion for computer vision and the idea of creating technology that perceives and connects with the world.
 
 3. **Musical Birthday Box**  
-   A heartfelt creation that combines Arduino programming with synchronized LED lights to play the *Happy Birthday* melody. Designed as a gift for my mother, this project reminded me that technology can express care and creativity.
+   A heartfelt creation that combines Arduino programming with synchronized LED lights to play the *Happy Birthday* melody. I first simulated the circuit and code in Tinkercad before assembling the system as a gift for my mother. This project reminded me that engineering can carry emotion, turning circuits and lights into a reflection of care, memory, and human warmth.
 
 ---
 
@@ -37,7 +37,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ---
 
 ## 💡 Reflection
-These early robotics creations represent more than technical learning. They reflect my belief that engineering should connect function with feeling and innovation with empathy. Each project strengthened my understanding of how curiosity, creativity, and compassion can coexist in robotics and design.
+These early robotics creations represent more than technical learning. They reflect my belief that engineering should connect function with feeling and innovation with empathy. Each project strengthened my understanding of how curiosity, creativity, and compassion can coexist in robotics and design, marking the foundation of my journey to create robots that can interact and grow alongside people.
 
 ---
 
