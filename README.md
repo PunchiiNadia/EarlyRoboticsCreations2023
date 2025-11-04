@@ -21,11 +21,10 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ---
 
 ## 🧩 Features
-- Arduino code for all projects
-- Wiring diagram for the musical birthday box project
-- 3D design models and circuit simulations for some projects  
+- Arduino code and wiring diagrams for all projects  
+- 3D design models and circuit simulations  
 - Step-by-step project documentation  
-- Reflection and lessons learned 
+- Reflection and lessons learned for each build  
 
 ---
 
