@@ -30,10 +30,12 @@ This collection includes three Arduino-based projects that reflect my exploratio
 ---
 
 ## 🛠️ Tools and Components
-- **Arduino Uno**, **Motor Driver Shield**, **Pop-32i Microcontroller**, and **Smile Robotics PRIK-THAI**
-- **Ultrasonic sensor**, **GP2Y0A02YK0F Infrared Distance Sensor**, **DC Motors**, **Servo motors**, **Lipo Battery 7.4V 550-900mAh**, **TT Gear Motors**, **DC Power Switch**, **Plastwood**, **ZX-03**, **LEDs**, and **Buzzers**  
-- **Tinkercad** for circuit simulation and 3D modeling  
-- **C++ / Arduino IDE** for programming  
+- Arduino Uno, Motor Driver Shield, Pop-32i Microcontroller, Smile Robotics PRIK-THAI kit
+- Ultrasonic sensor (HC-SR04), GP2Y0A02YK0F IR Distance Sensor
+- DC Motors, TT Gear Motors, Servo Motors, Lipo Battery 7.4V 550–900mAh, DC Power Switch
+- Plastwood structural base, ZX-03 IR Line / Edge Tracking Sensor, LEDs, basic wiring tools
+- Tinkercad for 3D modeling and circuit simulation
+- C++ / Arduino IDE for programming
 
 ---
 
