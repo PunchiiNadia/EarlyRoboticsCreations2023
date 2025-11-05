@@ -22,7 +22,7 @@ This collection includes three Arduino-based projects that reflect my exploratio
 
 ## 🧩 Features
 - Arduino code for each project, including both completed and partially developed versions.
-- 2025 updated wiring diagrams to clarify the original builds and note improvements.
+- 2025 updated wiring diagrams to correct and clarify the original builds and note improvements.
 - 3D design models and Tinkercad circuit simulations included where available.
 - Step-by-step build records documenting decisions, adjustments, and outcomes.
 - Reflections on technical challenges and personal learning throughout the process.
