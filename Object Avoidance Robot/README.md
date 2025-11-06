@@ -32,15 +32,13 @@ I assembled the robot independently while asking for guidance when needed. My co
 
 ---
 
-⭐
 ## 🔧 Development Process
-1. Following the tutorial to assemble the core structure and code.
-2. Experimenting with motor speeds and delay values to refine responsiveness.
-3. Identifying power limitations and replacing the battery with a Li-Po.
-4. Performing trial runs and improving stability by adding Plastwood structural support at the base.
-5. Final result: The robot successfully detected and avoided objects but sometimes spun in circles due to directional imbalance.
-6. Updating the wiring layout and circuit diagram *to prevent circular spinning behavior.*
-⭐
+	1.	Following the tutorial to assemble the core structure and code.
+	2.	Experimenting with motor speeds and delay values to refine responsiveness.
+	3.	Replacing the original 9V battery with a 7.4V Li-Po to provide stable motor and sensor power.
+	4.	Performing trial runs and improving stability by adding Plastwood structural support at the base.
+	5.	Final result: The robot successfully detected and avoided objects but sometimes spun in circles due to directional imbalance.
+	6.	Later reviewing the wiring layout and circuit diagram to identify incorrect motor polarity as the cause of the spinning behavior and documenting the corrected layout for future rebuild.
 
 ---
 
@@ -48,7 +46,7 @@ I assembled the robot independently while asking for guidance when needed. My co
 | Challenge | Solution |
 |----------|----------|
 | **Wiring confusion as a beginner** | Learning correct wiring logic with guidance from teacher and father. |
-| **Robot not moving even with correct code** | ⭐Diagnosing low voltage issue and replaced battery with Li-Po.⭐ |
+| **Robot not moving even with correct code** | Identifying insufficient power delivery from 9V battery and switching to a 7.4V Li-Po. |
 | **Robot spinning in circles** | Not resolving during the build. Later realizing the cause was incorrect motor polarity when reviewing the project. Updating the circuit diagram to support future rebuild and learning. |
 | **Chassis instability** | Adding Plastwood base to improve balance and support. |
 
