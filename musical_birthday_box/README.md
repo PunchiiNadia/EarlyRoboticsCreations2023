@@ -82,8 +82,7 @@ Learning perseverance, patience, and creative problem solving under time pressur
 This project deepened my appreciation for guidance, kindness, and shared curiosity within my learning community.
 
 **Vision:**  
-This was the moment I realized that engineering can carry emotion. It inspired me to continue pursuing robotics that combines empathy, memory, and human connection.
-
+This was the moment I realized that engineering can carry emotion. My mother’s joy when she saw the musical box helped me understand how technology can express care and create meaningful memories. Seeing her smile made the project feel alive and reminded me that even small circuits can hold warmth. It inspired me to continue pursuing robotics that combines empathy, memory, and human connection.
 ## 📌 Acknowledgment
 
 **Special thanks to my teacher, Nutthapon Buddhanu,**  
