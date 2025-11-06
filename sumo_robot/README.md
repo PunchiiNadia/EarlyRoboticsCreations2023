@@ -105,4 +105,5 @@ Seeing sensors act like “eyes” sparked my early interest in **computer visio
 ## 📌 Acknowledgment
 
 **Special thanks to my teacher, *Nutthapon Buddhanu*,**  
-for guiding and encouraging me throughout this project. He refined the 3D design for proper component fitting and completed the final wiring and calibration under a limited timeframe, ensuring that the robot could fully function before my departure to the United States. His effort allowed me to see my design come to life and to learn from a working robot, not only from the process. I deeply appreciate his thoughtfulness, dedication, time, and patience, especially during a period when time and emotions were both heavy. His support gave me assurance and inspiration to continue growing in robotics.
+for guiding and encouraging me throughout this project. He refined the 3D design for proper component fitting and completed the final wiring and calibration under a limited timeframe, ensuring that the robot could fully function before my departure to the United States.  
+His effort allowed me to see my design come to life and to learn from a working robot, not only from the process. I deeply appreciate his thoughtfulness, dedication, time, and patience, especially during a period when time and emotions were both heavy. His support gave me assurance and inspiration to continue growing in robotics.
