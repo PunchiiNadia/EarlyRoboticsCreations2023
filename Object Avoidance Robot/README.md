@@ -33,12 +33,12 @@ I assembled the robot independently while asking for guidance when needed. My co
 ---
 
 ## 🔧 Development Process
-	1.	Following the tutorial to assemble the core structure and code.
-	2.	Experimenting with motor speeds and delay values to refine responsiveness.
-	3.	Replacing the original 9V battery with a 7.4V Li-Po to provide stable motor and sensor power.
-	4.	Performing trial runs and improving stability by adding Plastwood structural support at the base.
-	5.	Final result: The robot successfully detected and avoided objects but sometimes spun in circles due to directional imbalance.
-	6.	Later reviewing the wiring layout and circuit diagram to identify incorrect motor polarity as the cause of the spinning behavior and documenting the corrected layout for future rebuild.
+1.	Following the tutorial to assemble the core structure and code.
+2.	Experimenting with motor speeds and delay values to refine responsiveness.
+3.	Replacing the original 9V battery with a 7.4V Li-Po to provide stable motor and sensor power.
+4.	Performing trial runs and improving stability by adding Plastwood structural support at the base.
+5.	Final result: The robot successfully detected and avoided objects but sometimes spun in circles due to directional imbalance.
+6.	Later reviewing the wiring layout and circuit diagram to identify incorrect motor polarity as the cause of the spinning behavior and documenting the corrected layout for future rebuild.
 
 ---
 
