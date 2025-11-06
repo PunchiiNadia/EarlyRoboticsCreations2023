@@ -47,12 +47,12 @@ My teacher introduced me to Tinkercad and Arduino, guiding my early learning and
 
 ## 🔧 Development Process
 
-1. **Planning:** Researched piezo buzzer tone frequencies and LED control.  
-2. **Simulation:** Designed and tested the circuit in Tinkercad before real hardware assembly.  
-3. **Assembly:** Wired the buzzer and LEDs to the Arduino and breadboard.  
-4. **Programming:** Coded the Happy Birthday melody and synchronized LED flashes.  
-5. **Testing:** Adjusted tone frequencies and LED timing until the song played smoothly.  
-6. **Fabrication and Presentation:** Built a layered birthday box, decorated it, and prepared the surprise setting for my mother.
+1. **Planning:** Researching piezo buzzer tone frequencies and LED control.  
+2. **Simulation:** Designing and testing the circuit in Tinkercad before real hardware assembly.  
+3. **Assembly:** Wiring the buzzer and LEDs to the Arduino and breadboard.  
+4. **Programming:** Coding the Happy Birthday melody and synchronizing LED flashes.  
+5. **Testing:** Adjusting tone frequencies and LED timing until the song played smoothly.  
+6. **Fabrication and Presentation:** Building a layered birthday box, decorating it, and preparing the surprise setting for my mother.
 
 
 ## 🧠 Challenges and Solutions
