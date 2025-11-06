@@ -65,3 +65,6 @@ The robot was **partially successful**. It could detect and avoid close obstacle
 
 ---
 
+🔄 Update (2025):
+During portfolio preparation, I reviewed the wiring logic and corrected the motor polarity in the circuit diagram to support clearer understanding and future rebuilds. The hardware was not rebuilt; this was a clarification and documentation improvement.
+
