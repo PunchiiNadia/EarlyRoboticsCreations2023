@@ -68,14 +68,12 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 
 ## 🧠 Challenges and Solutions
 
-## 🧠 Challenges and Solutions
-
 | Challenge | Response / How It Was Addressed |
 |----------|--------------------------------|
-| **Ensuring accurate electronic fit in the 3D model** | The fitting adjustments were completed by my teacher. I observed how the design was refined to ensure proper spacing and secure component placement. |
-| **Understanding wiring logic** | The wiring was completed by my teacher due to the limited time before my departure. I learned by watching the process and asking questions. |
-| **Sensor threshold calibration** | The calibration was led and finalized by my teacher. I participated by observing how different values affected robot behavior during testing. |
-| **Emotional and time pressure before international departure** | I learned to acknowledge my limitations, communicate honestly, and accept support from others instead of forcing myself to do everything alone. |
+| **Ensuring accurate electronic fit in the 3D model** | The fitting adjustments were completed by my teacher due to the time limitation. I closely observed how he refined the model to ensure proper spacing and secure component placement, and I am using this learning to improve my future 3D design planning and robotics builds. |
+| **Understanding wiring logic** | The wiring was completed by my teacher due to the limited time before my departure. I learned by watching the process, asking questions, and observing how clear wiring logic prevents troubleshooting issues later. |
+| **Sensor threshold calibration** | The calibration was led and finalized by my teacher. I participated by observing how different values affected detection stability and motion control during testing. |
+| **Emotional and time pressure before international departure** | I learned to acknowledge my limits, ask for help sincerely, and accept steady progress instead of pushing myself alone during overwhelming circumstances. |
 
 ---
 
