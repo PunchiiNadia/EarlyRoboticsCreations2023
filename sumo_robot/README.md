@@ -19,7 +19,7 @@ On a deeper level, this project helped me:
 
 - Gaining confidence working with real hardware  
 - Strengthening problem-solving skills during emotional and time pressure  
-- Discovering the early beginning of my passion for **computer vision**, sparkling by seeing sensors act like “eyes”  
+- Discovering the early beginning of my passion for **computer vision**, sparking by seeing sensors act like “eyes”  
 
 ---
 
