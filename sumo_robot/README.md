@@ -70,10 +70,10 @@ I am deeply grateful for the patience, guidance, and encouragement I received.
 
 | Challenge | Response |
 |----------|----------|
-| Ensuring accurate electronic fit in 3D model | Refined with teacher's guidance |
-| Understanding wiring logic | Learned through guided attempts and correction |
-| Sensor threshold calibration | Participated in adjusting values during testing |
-| Emotional and time pressure before international departure | Learned to ask for help and accept steady progress |
+| **Ensuring accurate electronic fit in 3D model** | Refining with teacher's guidance |
+| **Understanding wiring logic** | Learning through guided attempts and correction |
+| **Sensor threshold calibration** | Participating in adjusting values during testing |
+| **Emotional and time pressure before international departure** | Learning to ask for help and accepting steady progress |
 
 ---
 
