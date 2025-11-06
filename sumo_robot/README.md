@@ -87,13 +87,13 @@ Although I was not able to complete all steps independently, this project became
 ## 💡 Reflection
 
 **Technical:**  
-Strengthened understanding of 3D modeling, motor behavior, and real-world sensor calibration.
+Strengthening understanding of 3D modeling, motor behavior, and real-world sensor calibration.
 
 **Personal:**  
-Gained patience, humility, and courage to continue improving step by step.
+Gaining patience, humility, and courage to continue improving step by step.
 
 **Relational:**  
-Learned the importance of collaboration, support, and learning alongside others.
+Learning the importance of collaboration, support, and learning alongside others.
 
 **Vision:**  
 Seeing sensors act like “eyes” sparked my early interest in **computer vision** and the idea of building robots that can perceive and connect with the world.
