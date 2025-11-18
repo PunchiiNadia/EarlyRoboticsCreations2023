@@ -25,6 +25,7 @@ I assembled the robot independently while asking for guidance when needed. My co
 - **Arduino Uno**, **Motor Driver Shield**
 - **HC-SR04 Ultrasonic Sensor**
 - **TT Gear Motors** (x2)
+- **BO Motor Wheels with Yellow Hubs** (x2)
 - **Micro Servo Motor MG90S (180° rotation)**
 - **7.4V Li-Po Battery (550–900mAh)**, **DC Power Switch**
 - **DC Male Adapter Jack (5.5 × 2.5 mm)**
