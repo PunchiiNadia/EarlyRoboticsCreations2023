@@ -32,6 +32,7 @@ I assembled the robot independently while asking for guidance when needed. My co
 - **Plastwood** base for stability
 - **C++ / Arduino IDE** for programming
 - Basic wiring tools
+- Soldering tools including solder wire and a basic soldering iron
 
 ![circuit_diagram](circuit_diagram.jpg)
 
