@@ -70,13 +70,13 @@ The robot was **partially successful**. It could detect and avoid close obstacle
 Learning Arduino wiring, motor driver usage, sensor integration, and hands-on debugging in physical builds. I also gained practical experience with soldering by attaching the ultrasonic sensor wires to the motor driver shield and soldering the TT motor wires to strengthen their electrical connections. After soldering, I reinforced the joints with tape to prevent loosening during movement. These tasks helped me understand how secure electrical connections and careful assembly directly influence robot stability, responsiveness, and overall performance. Through this, I developed a clearer foundation in both electrical reliability and the physical side of robotic engineering.
 
 **Personal:**  
-Developing patience, persistence, and resilience through trial-and-error problem solving and repeated iteration.  
+Developing patience, persistence, and resilience through repeated trial and error. Each rebuild taught me to slow down, stay calm, and trust the process instead of rushing through difficulties. This experience strengthened my confidence in learning by doing and reminded me that improvement comes from steady, consistent effort.
 
 **Relational:**  
-Learning to reach out and receive help, realizing that engineering progress is not a journey taken alone, and that guidance, encouragement, and shared problem-solving support deeper learning and long-term improvement.  
+Learning to reach out and receive help when needed, realizing that engineering progress is not a journey taken alone. Guidance from my teacher and father encouraged deeper understanding, and collaborating to solve wiring issues taught me how communication and shared problem solving support long-term growth.
 
 **Vision:**  
-Realizing that even simple autonomous behaviors can be the foundation for creating future robots that interact, respond, and grow alongside people.
+Realizing that even simple autonomous behaviors can be the foundation for creating future robots that interact, respond, and grow alongside people. This project reminded me that robotics combines both technical skill and compassion, and that thoughtful engineering can support meaningful human experiences in the future.
 
 ---
 
