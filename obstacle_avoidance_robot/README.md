@@ -67,7 +67,7 @@ The robot was **partially successful**. It could detect and avoid close obstacle
 
 ## 💡 Reflection
 **Technical:**  
-Learning Arduino wiring, motor driver usage, sensor integration, and hands-on debugging in physical builds. I also practiced basic soldering by attaching the ultrasonic sensor wires directly to the motor driver shield to secure the connections. After soldering, I reinforced the joint with tape to prevent loosening during movement. This experience helped me understand the importance of stable electrical connections and taught me how careful assembly contributes to reliable robot behavior.
+Learning Arduino wiring, motor driver usage, sensor integration, and hands-on debugging in physical builds. I also gained practical experience with soldering by attaching the ultrasonic sensor wires to the motor driver shield and soldering the TT motor wires to strengthen their electrical connections. After soldering, I reinforced the joints with tape to prevent loosening during movement. These tasks helped me understand how secure electrical connections and careful assembly directly influence robot stability, responsiveness, and overall performance. Through this, I developed a clearer foundation in both electrical reliability and the physical side of robotic engineering.
 
 **Personal:**  
 Developing patience, persistence, and resilience through trial-and-error problem solving and repeated iteration.  
